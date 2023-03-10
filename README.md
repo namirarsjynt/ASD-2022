@@ -1,4 +1,4 @@
-# ASD-2022
+# post test asd02
 Cara kerja program
 Program tersebut merupakan sebuah implementasi dari algoritma linear search untuk mencari suatu nilai dalam array 
 pada baris pertama program tersebut , sebuah array dengan elemen yang di tentukan,kemudian sebuah fungsi "linesearch" didefinisikan dengan dua parameter,
