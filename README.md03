@@ -1,0 +1,14 @@
+#post test asd03
+Program di atas ini merupakan contoh penggunaan Linked List untuk menyimpan data motor. 
+Setiap motor disimpan dalam sebuah objek Motor yang memiliki atribut nama, jenis, tahun, dan next_motor (pointer ke motor berikutnya pada Linked List).
+
+Kemudian, terdapat kelas LinkedMotor yang memiliki beberapa fungsi untuk memanipulasi Linked List, antara lain:
+
+- tambah_motor(nama, jenis, tahun) untuk menambahkan motor ke Linked List.
+- tampilkan_motor() untuk menampilkan semua motor pada Linked List.
+- hapus_motor(nama) untuk menghapus motor dari Linked List berdasarkan nama
+- ubah_motor(nama, jenis, tahun) untuk mengubah informasi motor pada Linked List berdasarkan nama.
+- Pada program utama, terdapat contoh penggunaan Linked List untuk menyimpan beberapa motor, menampilkan semua motor pada Linked List,
+ menghapus salah satu motor dari Linked List, mengubah informasi motor pada Linked List, dan menampilkan semua motor pada Linked List setelah dihapus dan diubah.
+
+*Program tersebut akan mengeluarkan output yang berisi daftar motor pada Linked List, daftar motor setelah motor Ninja dihapus, dan daftar motor setelah informasi motor Vario diubah.
